@@ -1,0 +1,2 @@
+# fntdne
+Daily digest notes
